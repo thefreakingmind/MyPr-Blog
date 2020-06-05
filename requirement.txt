@@ -35,7 +35,7 @@ dask==0.15.2
 datashape==0.5.4
 decorator==4.1.2
 distributed==1.18.3
-Django==1.11.7
+Django==1.11.29
 django-autoslug==1.9.3
 django-dash==0.5.3
 django-nine==0.1.13
